@@ -16,7 +16,7 @@ text-decoration: none;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -26,7 +26,7 @@ text-decoration: none;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42; 
@@ -38,23 +38,9 @@ text-decoration: none;
 
 
 .header-item-navigation {
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.header-item-navigation:hover {
-    color: #404bbf;
+    
 }
 
-.header-item-navigation:focus {
-    color: #404bbf;
-}
-
-.header-item-navigation:active {
-    color: inherit;
 }
 
 .header-adress{
@@ -62,8 +48,23 @@ text-decoration: none;
 }
 
 .header-link {
-
+font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
+.header-link:hover {
+    color: #404bbf;
+}
+
+.header-link:focus {
+    color: #404bbf;
+}
+
+.header-link:active {
+    color: inherit;
 
 .header-list-contacts {
 
