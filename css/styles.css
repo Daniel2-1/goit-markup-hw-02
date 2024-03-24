@@ -41,10 +41,10 @@ text-decoration: none;
     
 }
 
-}
+
 
 .header-adress{
-    font-style: normal
+    font-style: normal;
 }
 
 .header-link {
@@ -71,16 +71,16 @@ font-family: "Roboto", sans-serif;
 }
 
 .header-item-contacts {
-
+font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .header-link-email {
-        font-family: "Roboto", sans-serif;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
+
 }
 
 .header-link-email:hover {
@@ -88,12 +88,7 @@ font-family: "Roboto", sans-serif;
 }
 
 .header-link-number {
-        font-family: "Roboto", sans-serif;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
+        
 }
 
 .header-link-number:hover {
@@ -104,21 +99,21 @@ font-family: "Roboto", sans-serif;
 
 /* Effective Solutions for Your Business */
 .hero-image {
-background: #2e2f42;
+background-color: #2e2f42;
 }
 
 .hero-image-titel {
-font-family: "Roboto", sans-serif;
+
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #fff;
+    color: #ffff;
 }
 
 .hero-image-btn {
-font-family: "Roboto", sans-serif;
+
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -138,7 +133,7 @@ font-family: "Roboto", sans-serif;
 
 /* Section 1 */
 .section-1-title {
-            display: none;
+    display: none;
 }
 
 .section-1 {}
@@ -147,7 +142,8 @@ font-family: "Roboto", sans-serif;
 
 .section-1-item {}
 
-.section-1-subtitel {font-family: "Roboto", sans-serif;
+.section-1-subtitel {
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -156,7 +152,7 @@ font-family: "Roboto", sans-serif;
 }
 
 .section-1-text {
-    font-family: "Roboto", sans-serif;
+        font-family: "Roboto", sans-serif;
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -250,9 +246,29 @@ font-family: "Roboto", sans-serif;
 /* -- */
 
 /* Footer */
-.footer {}
+.footer {
+    background-color: #2e2f42;
+}
 
-.footer-link {}
+.footer-link {
+font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
 
-.footer-text {}
+.web-1 {
+color: #f4f4fd;
+}
+
+.footer-text {
+    
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
+}
 /* -- */
