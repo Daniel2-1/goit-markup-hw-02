@@ -122,13 +122,13 @@ background-color: #2e2f42;
     background: #4d5ae5;
     cursor: pointer;
 }
-.hero-image-btn:hover {
-    background-color: #404BBF
-}
-
+.hero-image-btn:hover,
 .hero-image-btn:focus {
     background-color: #404BBF
 }
+
+
+
 /* -- */
 
 /* Section 1 */
@@ -270,5 +270,5 @@ color: #f4f4fd;
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
-}
+
 /* -- */
