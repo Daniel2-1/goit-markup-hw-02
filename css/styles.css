@@ -194,11 +194,11 @@ background-color: #2e2f42;
 
 
 /* Section 3 */
-.section-3 {
+.section-portfolio {
     
 }
 
-.section-3-titel {
+.section-portfolio-title {
 
         font-weight: 700;
         font-size: 36px;
@@ -212,7 +212,7 @@ background-color: #2e2f42;
 
 .section-3-item {}
 
-.section-3-subtitel {
+.section-portfolio-subtitel{
     
         font-weight: 500;
         font-size: 20px;
@@ -221,7 +221,7 @@ background-color: #2e2f42;
         color: #2e2f42;
 }
 
-.section-3-text {
+.section-portfolio-text {
     
         font-weight: 400;
         font-size: 16px;
