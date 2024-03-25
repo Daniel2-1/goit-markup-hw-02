@@ -9,7 +9,6 @@ body{
 /* header */
 .header {
 text-decoration: none;
-
 }
 
 .header-logo {
@@ -43,7 +42,7 @@ text-decoration: none;
 
 
 
-.header-adress{
+.header-adress {
     font-style: normal;
 }
 
@@ -65,10 +64,9 @@ font-family: "Roboto", sans-serif;
 
 .header-link:active {
     color: inherit;
-
-.header-list-contacts {
-
 }
+
+.header-list-contacts {}
 
 .header-item-contacts {
 font-family: "Roboto", sans-serif;
