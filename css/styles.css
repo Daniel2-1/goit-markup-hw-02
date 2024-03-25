@@ -31,14 +31,9 @@ text-decoration: none;
     color: #2e2f42; 
 }
 
-.header-list-navigation {
-    
-}
 
 
-.header-item-navigation {
-    
-}
+
 
 
 
@@ -66,19 +61,18 @@ font-family: "Roboto", sans-serif;
     color: inherit;
 }
 
-.header-list-contacts {}
 
 .header-item-contacts {
+
+}
+
+.header-link-email {
 font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-}
-
-.header-link-email {
-
 }
 
 .header-link-email:hover {
@@ -89,7 +83,12 @@ color: #404bbf;
 }
 
 .header-link-number {
-        
+        font-family: "Roboto", sans-serif;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.02em;
+            color: #434455;
 }
 
 .header-link-number:hover {
@@ -214,7 +213,9 @@ background-color: #2e2f42;
 
 
 /* Section 3 */
-.section-3 {}
+.section-3 {
+    
+}
 
 .section-3-titel {
 
