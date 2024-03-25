@@ -146,9 +146,9 @@ background-color: #2e2f42;
 
 .section-1-list {}
 
-.section-1-item {}
+.section-item-item {}
 
-.section-1-subtitel {
+.section-subtitel-subtitel {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 20px;
@@ -157,7 +157,7 @@ background-color: #2e2f42;
     color: #2e2f42;
 }
 
-.section-1-text {
+.section-text-text {
         font-family: "Roboto", sans-serif;
         font-weight: 400;
         font-size: 16px;
