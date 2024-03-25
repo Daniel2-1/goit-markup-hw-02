@@ -176,7 +176,7 @@ background-color: #2e2f42;
         text-transform: capitalize;
 }
 
-.section-2-list {}
+.section-team-list {}
 
 .section-2-item {
     background: #fff
@@ -191,7 +191,8 @@ background-color: #2e2f42;
         color: #2e2f42;
 }
 
-.section-2-text {
+.section-team-text
+ {
         
         
         font-size: 16px;
